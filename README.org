@@ -1,0 +1,7 @@
+* hapticwisdom
+
+This is a description of my hapticwisdom.
+
+** Usage
+
+To use my project, run this command: ./hapticwisdom --verbose
